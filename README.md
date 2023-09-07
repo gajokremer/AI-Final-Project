@@ -1,1 +1,5 @@
-# AI_Final_Project
+# AI Final Project
+
+Gabriel Kremer
+Sebastián Zapata
+Alexander Echeverry
